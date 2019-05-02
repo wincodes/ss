@@ -1,0 +1,39 @@
+
+.headerstyle{
+background-color: #C00;
+}
+.headerstyle a
+{
+	color:#fff;
+	}
+.headerstyle a:hover {
+	color:#C00;
+	}
+
+.bodyclass {
+	background-color: #d3d3d3;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	}
+
+.content {
+	padding: 5px;
+	margin: 5px 0px 0px 0px;
+	}
+
+.panel-footer{
+background-color: #C00;
+color: #fff;
+padding: 10px;
+}
+.panel-footer a {
+color: #fff;
+}
+.footer{
+background-color: #C00;
+color: #fff;
+padding: 10px;
+}
+.footer a {
+color: #fff;
+}
